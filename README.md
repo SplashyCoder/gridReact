@@ -13,3 +13,5 @@ COMMANDOS:
 SCRIPTS:
     *Modal:
         Dentro de la carpeta  structure/card el archivo card.js tiene el script Modal, el cual como lo dice su nombre esta hecho para crear ventanas modales al darle click a una de las cartas de los personajes. El mismo funciona haciendo que la maquetacion del modal aparezca sobre la pantalla, usando principalmente  document.body.classList.add(), el cual al ser un estado, y cambiar el mismo tiene en cuenta el evento al que responde para asi cambiar la maquetacion de la pagina temporalmente.
+
+REPO: https://github.com/SplashyCoder/gridReact
